@@ -5,7 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #212121;
+  background-image: url(https://s17736.pcdn.co/wp-content/uploads/2019/03/jason-leung-479251-unsplash.jpg);
+  background-size: cover;
 }
 
 code {
